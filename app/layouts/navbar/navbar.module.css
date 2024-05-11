@@ -3,9 +3,9 @@
     --headerNavFontSize: calc((16 / 16) * 1rem);
 
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
-    justify-content: flex-start;
+    justify-content: flex-end;
     padding: 0;
     width: var(--space2XL);
     position: fixed;
@@ -49,11 +49,9 @@
   }
 
   .navList {
-    transform: rotate(180deg);
     display: flex;
     flex-direction: row-reverse;
     position: relative;
-    writing-mode: vertical-lr;
   }
 
   .navLink {

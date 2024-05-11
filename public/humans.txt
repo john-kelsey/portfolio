@@ -1,16 +1,24 @@
-__  __  __
-\ \ \ \ \/
- \ \/\ \
-  \/  \/
+
+   oooo oooo    oooo 
+   `888 `888   .8P'  
+    888  888  d8'    
+    888  88888[      
+    888  888`88b.    
+    888  888  `88b.  
+.o. 88P o888o  o888o 
+`Y888P               
+                     
+                     
+
 
 The humans.txt file explains the team, technology,
 and graphic assets behind this site humanstxt.org.
 
 _______________________________________________________________________________
 
-DESIGNER | デザイナー
+Designed and Developed by John Kelsey
+Inspired by Hamish Williams (look at his work at: github.com/hamishmw )
 
-Hamish Williams
 Hand crafted design & web development
 
 Design tools:
@@ -18,12 +26,12 @@ Figma
 Photoshop
 Blender
 
-twitter.com/hamishmw
-github.com/hamishmw
+twitter.com/john_k_irungu
+github.com/john-kelsey
 
 _______________________________________________________________________________
 
-TECHNOLOGY | テクノロジー
+TECHNOLOGY
 
 React
 Remix
@@ -32,8 +40,8 @@ Framer Motion
 
 _______________________________________________________________________________
 
-FONTS | フォント
+FONTS
 
 Gotham
 IPA Gothic Regular
-Hiragino Kaku Gothic W8
+

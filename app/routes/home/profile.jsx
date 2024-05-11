@@ -21,15 +21,15 @@ const ProfileText = ({ visible, titleId }) => (
       <DecoderText text="Hi there" start={visible} delay={500} />
     </Heading>
     <Text className={styles.description} data-visible={visible} size="l" as="p">
-      I’m Hamish, currently I live in Sydney working as a senior product designer at{' '}
-      <Link href="https://www.qwilr.com">Qwilr</Link>. My projects include UX design, UI
-      animations, and icon illustration. Being comfortable with code allows me to rapidly
-      prototype and validate experiences. If you’re interested in the tools and software I
-      use check out my <Link href="/uses">uses page</Link>.
+      I’m John, I am a High School student in {' '}
+      <Link href="https://www.manguhigh.com">Mangu High</Link>. I am also a Leader of the school's {' '}
+      <Link href="https://www.mangu.hackclub.com">Hack Club</Link>I am an aspiring full stack developer.
+      I am currently learning more of front end using React and Remix. I am also learning more of Ethical hacking , Microsoft Azure and Cloudflare.
+      Check out my blog for more of my coding journey
+       <Link href="www.johnkelsey.hashnode.dev">Articles page</Link>.
     </Text>
     <Text className={styles.description} data-visible={visible} size="l" as="p">
-      In my spare time I like to practice Brazilian Jiu Jitsu, play video games, and{' '}
-      <Link href="/projects/volkihar-knight">make mods</Link>. I’m always down for hearing
+      In my spare time I like learing more about Technology , Science , Philosophy and Religion. I’m always down for hearing
       about new projects, so feel free to drop me a line.
     </Text>
   </Fragment>
@@ -86,7 +86,7 @@ export const Profile = ({ id, visible, sectionRef }) => {
                   width={960}
                   height={1280}
                   sizes={`(max-width: ${media.mobile}px) 100vw, 480px`}
-                  alt="Me smiling like a goofball at the Qwilr office in Sydney"
+                  alt="Me , if I had a beard"
                 />
                 <svg className={styles.svg} data-visible={visible} viewBox="0 0 136 766">
                   <use href={`${katakana}#katakana-profile`} />
